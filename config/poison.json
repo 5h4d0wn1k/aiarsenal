@@ -1,0 +1,10 @@
+{
+  "tool": "poison",
+  "n": 300,
+  "dims": 3,
+  "poison_frac": 0.5,
+  "dist": 2.0,
+  "std": 0.8,
+  "seed": 0,
+  "epochs": 400
+}

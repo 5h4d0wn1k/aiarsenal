@@ -1,0 +1,8 @@
+{
+  "tool": "extract",
+  "dims": 3,
+  "n": 300,
+  "n_queries": 500,
+  "seed": 0,
+  "epochs": 400
+}

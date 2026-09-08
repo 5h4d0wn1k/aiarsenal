@@ -1,0 +1,8 @@
+{
+  "tool": "backdoor",
+  "dims": 3,
+  "n": 200,
+  "seed": 0,
+  "epochs": 400,
+  "trigger_weight": 24.0
+}

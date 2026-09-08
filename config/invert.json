@@ -1,0 +1,8 @@
+{
+  "tool": "invert",
+  "dims": 3,
+  "n_train": 120,
+  "n_non": 80,
+  "seed": 0,
+  "jitter": 0.14
+}
