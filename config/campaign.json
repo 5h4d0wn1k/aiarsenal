@@ -1,0 +1,7 @@
+{
+  "tool": "campaign",
+  "scope": "lab:test-a",
+  "modules": ["poison", "invert", "inject"],
+  "approved": true,
+  "dry_run": true
+}
