@@ -1,4 +1,5 @@
 # aiarsenal
+![tests](https://github.com/5h4d0wn1k/aiarsenal/actions/workflows/ci.yml/badge.svg) ![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Adversarial AI/ML security studio** — a runnable, offline-first suite for
 studying real attack mechanics against built-in lab fixtures: data poisoning,
